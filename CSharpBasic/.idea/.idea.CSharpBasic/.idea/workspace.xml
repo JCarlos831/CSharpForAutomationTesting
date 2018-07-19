@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99f28573-1f69-44be-986c-9b718ef11303" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharpBasic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpBasic/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99f28573-1f69-44be-986c-9b718ef11303" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,16 +10,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CSharpBasic/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+            <state relative-caret-position="195">
+              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
               <folding>
-                <marker date="1532026498121" expanded="true" signature="36:668" ph="{...}" />
-                <marker date="1532026498121" expanded="true" signature="65:666" ph="{...}" />
-                <marker date="1532026498121" expanded="true" signature="255:660" ph="{...}" />
+                <marker date="1532038126622" expanded="true" signature="36:1456" ph="{...}" />
+                <marker date="1532038126622" expanded="true" signature="65:1454" ph="{...}" />
+                <marker date="1532038126622" expanded="true" signature="156:413" ph="{...}" />
+                <marker date="1532038126622" expanded="false" signature="423:1072" ph="Old Code" />
+                <marker date="1532038126622" expanded="true" signature="522:1052" ph="{...}" />
+                <marker date="1532038126622" expanded="true" signature="1104:1257" ph="{...}" />
+                <marker date="1532038126622" expanded="true" signature="1202:1247" ph="{...}" />
+                <marker date="1532038126622" expanded="true" signature="1292:1448" ph="{...}" />
+                <marker date="1532038126622" expanded="true" signature="1393:1438" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -30,14 +34,13 @@
       <file leaf-file-name="TestClass1.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSharpBasic/TestClass1.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
-                <marker date="1532026346858" expanded="true" signature="36:574" ph="{...}" />
-                <marker date="1532026346858" expanded="true" signature="66:572" ph="{...}" />
-                <marker date="1532026346858" expanded="true" signature="141:184" ph="{...}" />
-                <marker date="1532026346858" expanded="true" signature="340:426" ph="{...}" />
-                <marker date="1532026346858" expanded="true" signature="480:566" ph="{...}" />
+                <marker date="1532037975421" expanded="true" signature="36:282" ph="{...}" />
+                <marker date="1532037975421" expanded="true" signature="66:280" ph="{...}" />
+                <marker date="1532037975421" expanded="true" signature="98:178" ph="{...}" />
+                <marker date="1532037975421" expanded="true" signature="222:274" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -46,11 +49,12 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/CSharpBasic/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CSharpBasic/TestClass1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CSharpBasic/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BB7B695B-8C62-46B3-AC16-46577AEA7650/58/43509b73/Int32.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -69,7 +73,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="22" />
     <option name="width" value="1440" />
     <option name="height" value="827" />
@@ -80,7 +84,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -88,22 +91,19 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="CSharpBasic (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="CSharpBasic (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="CSharpBasic" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -144,11 +144,12 @@
       <option name="presentableId" value="Default" />
       <updated>1532025321416</updated>
       <workItem from="1532025322676" duration="1809000" />
+      <workItem from="1532027190793" duration="5233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1809000" />
+    <option name="totallyTimeSpent" value="7042000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -160,31 +161,32 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="827" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" auto_hide="true" id="Run" order="2" weight="0.32876712" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32876712" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.3297568" />
+      <window_info anchor="bottom" auto_hide="true" id="Event Log" order="7" sideWeight="0.5007153" side_tool="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" weight="0.32969698" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" auto_hide="true" id="Run" order="2" weight="0.32848486" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" weight="0.32848486" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32969698" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,28 +197,71 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CSharpBasic/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <marker date="1532038126622" expanded="true" signature="36:1456" ph="{...}" />
+            <marker date="1532038126622" expanded="true" signature="65:1454" ph="{...}" />
+            <marker date="1532038126622" expanded="true" signature="156:413" ph="{...}" />
+            <marker date="1532038126622" expanded="false" signature="423:1072" ph="Old Code" />
+            <marker date="1532038126622" expanded="true" signature="522:1052" ph="{...}" />
+            <marker date="1532038126622" expanded="true" signature="1104:1257" ph="{...}" />
+            <marker date="1532038126622" expanded="true" signature="1202:1247" ph="{...}" />
+            <marker date="1532038126622" expanded="true" signature="1292:1448" ph="{...}" />
+            <marker date="1532038126622" expanded="true" signature="1393:1438" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CSharpBasic/TestClass1.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
           <folding>
-            <marker date="1532026346858" expanded="true" signature="36:574" ph="{...}" />
-            <marker date="1532026346858" expanded="true" signature="66:572" ph="{...}" />
-            <marker date="1532026346858" expanded="true" signature="141:184" ph="{...}" />
-            <marker date="1532026346858" expanded="true" signature="340:426" ph="{...}" />
-            <marker date="1532026346858" expanded="true" signature="480:566" ph="{...}" />
+            <marker date="1532037975421" expanded="true" signature="36:282" ph="{...}" />
+            <marker date="1532037975421" expanded="true" signature="66:280" ph="{...}" />
+            <marker date="1532037975421" expanded="true" signature="98:178" ph="{...}" />
+            <marker date="1532037975421" expanded="true" signature="222:274" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BB7B695B-8C62-46B3-AC16-46577AEA7650/58/43509b73/Int32.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSharpBasic/TestClass1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <marker date="1532037975421" expanded="true" signature="36:282" ph="{...}" />
+            <marker date="1532037975421" expanded="true" signature="66:280" ph="{...}" />
+            <marker date="1532037975421" expanded="true" signature="98:178" ph="{...}" />
+            <marker date="1532037975421" expanded="true" signature="222:274" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CSharpBasic/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        <state relative-caret-position="195">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
           <folding>
-            <marker date="1532026498121" expanded="true" signature="36:668" ph="{...}" />
-            <marker date="1532026498121" expanded="true" signature="65:666" ph="{...}" />
-            <marker date="1532026498121" expanded="true" signature="255:660" ph="{...}" />
+            <marker date="1532038126622" expanded="true" signature="36:1456" ph="{...}" />
+            <marker date="1532038126622" expanded="true" signature="65:1454" ph="{...}" />
+            <marker date="1532038126622" expanded="true" signature="156:413" ph="{...}" />
+            <marker date="1532038126622" expanded="false" signature="423:1072" ph="Old Code" />
+            <marker date="1532038126622" expanded="true" signature="522:1052" ph="{...}" />
+            <marker date="1532038126622" expanded="true" signature="1104:1257" ph="{...}" />
+            <marker date="1532038126622" expanded="true" signature="1202:1247" ph="{...}" />
+            <marker date="1532038126622" expanded="true" signature="1292:1448" ph="{...}" />
+            <marker date="1532038126622" expanded="true" signature="1393:1438" ph="{...}" />
           </folding>
         </state>
       </provider>

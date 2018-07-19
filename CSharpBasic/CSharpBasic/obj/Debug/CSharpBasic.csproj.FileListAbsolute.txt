@@ -4,3 +4,9 @@
 /Users/JuanCMontoya/Projects/Udemy/csharp/CSharpBasic/CSharpBasic/obj/Debug/CSharpBasic.csproj.CoreCompileInputs.cache
 /Users/JuanCMontoya/Projects/Udemy/csharp/CSharpBasic/CSharpBasic/obj/Debug/CSharpBasic.exe
 /Users/JuanCMontoya/Projects/Udemy/csharp/CSharpBasic/CSharpBasic/obj/Debug/CSharpBasic.pdb
+/Users/JuanCMontoya/Projects/ExecuteAutomation/CSharpForAutomationTesting/CSharpBasic/CSharpBasic/bin/Debug/CSharpBasic.exe
+/Users/JuanCMontoya/Projects/ExecuteAutomation/CSharpForAutomationTesting/CSharpBasic/CSharpBasic/bin/Debug/CSharpBasic.pdb
+/Users/JuanCMontoya/Projects/ExecuteAutomation/CSharpForAutomationTesting/CSharpBasic/CSharpBasic/obj/Debug/CSharpBasic.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/ExecuteAutomation/CSharpForAutomationTesting/CSharpBasic/CSharpBasic/obj/Debug/CSharpBasic.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/ExecuteAutomation/CSharpForAutomationTesting/CSharpBasic/CSharpBasic/obj/Debug/CSharpBasic.exe
+/Users/JuanCMontoya/Projects/ExecuteAutomation/CSharpForAutomationTesting/CSharpBasic/CSharpBasic/obj/Debug/CSharpBasic.pdb
